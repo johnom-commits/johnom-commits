@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#### My main projects:
+
+##### [forum](https://github.com/johnom-commits/job4j_forum) - this's a simple forum made in java, Spring (Boot, Security, Data, MVC), PostgreSQL, jsp and bootstrap.
+##### [ToDo list](https://github.com/johnom-commits/job4j_todo) - my ToDo list. Java servlets, Hibernate, PostgreSQL, HTML, bootstrap, ajax.
+##### [Car market](https://github.com/johnom-commits/job4j_saleCars) - cars sell. Java servlets, Hibernate, PostgreSQL, HTML, Bootstrap, JS, ajax, hsqldb.
+##### [Car accident service](https://github.com/johnom-commits/job4j_car_accident) - registration of car accidents. Java, Spring (MVC, Data, Security), PostgreSQL, JSP, Bootstrap.
+##### [Cinema booking service](https://github.com/johnom-commits/job4j_cinema) - cinema hall booking service. Java servlets, PostgreSQL, JS, HTML, AJAX. 
+
 <!--
 **johnom-commits/johnom-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
